@@ -1,0 +1,7 @@
+Q1
+
+https://jupyter.org/try-jupyter/retro/notebooks/?path=assignment2q1.ipynb
+
+Q2
+
+https://jupyter.org/try-jupyter/retro/notebooks/?path=assignment2q2.ipynb
